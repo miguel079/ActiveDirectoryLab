@@ -30,6 +30,21 @@ Download Windows 2019 Server: <br/>
 <br />
 <br />
 
+Download Windows 2019 Server: <br/>
+<img src="https://i.imgur.com/IJH3PFm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+Configure Virtual Box with Windows10: <br/>
+<img src="https://i.imgur.com/NtnmZKD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+Add Windows 2019 Server: <br/>
+<img src="https://i.imgur.com/qb2JZ54.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 Creating Users with PowerShell: <br/>
 <img src="https://i.imgur.com/tOmVEhh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
