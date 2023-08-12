@@ -45,7 +45,12 @@ Add Windows 2019 Server: <br/>
 <br />
 <br />
 
-Creating Users with PowerShell: <br/>
+Assign Password to Default Administrator Account after Installing Windows10: <br/>
+<img src="https://i.imgur.com/st3u7kg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+Creating Users with PowerShell<br/>
 <img src="https://i.imgur.com/tOmVEhh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
