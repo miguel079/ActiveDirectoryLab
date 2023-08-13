@@ -50,7 +50,7 @@ Assign Password to Default Administrator Account after Installing Windows10: <br
 <br />
 <br />
 
-Creating Users with PowerShell<br/>
+Creating Users with <a href="https://github.com/joshmadakor1/AD_PS">Josh Madakor's PowerShell custom script</a>
 <img src="https://i.imgur.com/tOmVEhh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
